@@ -144,7 +144,7 @@
         left:10px;
     }
     .left-container-arrow, .right-container-arrow{
-        border-right: 15px solid #fff;
+        border-right: 15px solid #f0eddd;
         border-left: 0;
         left: -15px;
     }
